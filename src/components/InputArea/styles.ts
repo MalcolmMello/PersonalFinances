@@ -2,6 +2,7 @@ import styled from "styled-components";
 
 export const Container = styled.div`
     display:flex;
+    flex-direction:column;
     align-items:center;
     background-color: #FFF;
     box-shadow: 0px 0px 5px #CCC;
@@ -28,4 +29,19 @@ export const InputArea = styled.div``
 export const Title = styled.div`
     min-height: 21px;
     font-weight: bold;
+`
+
+export const errorMessage = styled.div`
+    display:flex;
+    align-items:center;
+    background-color: #FF6347;
+    box-shadow: 0px 0px 5px #FF0000;
+    border: 1px solid #b22222;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 20px;
+`
+
+export const InputContainer = styled.form`
+    display flex;
 `
