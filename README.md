@@ -11,7 +11,7 @@ ou no negativo. Caso queira, você pode adicionar alguma receita ou despesa, e o
 - [x] Inserir novos gastos
 - [x] Média mensal
 - [x] Valores filtrados mensalmente
-- [x] Adicionar um novo item
+- [x] Adicionar um novo item 
 
 <h1>
     <img alt="Readme" title= "Readme" src="./gifs/financeapp.gif" />
@@ -45,4 +45,4 @@ npm start
 
 ---
 
-Feito no desafio 5 projetos em 5 dias pela B7Web - [Meu LinkedIn](https://www.linkedin.com/in/malcolm-de-mello-a8208a224/)
+Feito no desafio 5 projetos em 5 dias pela B7Web (funcionalidade de adicionar um novo item feita por mim) - [Meu LinkedIn](https://www.linkedin.com/in/malcolm-de-mello-a8208a224/)
